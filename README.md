@@ -4,4 +4,5 @@ I worked on several projects, including Naive Bayes models, logistic regression 
 Projects are:
 * Predict Sentiment of Tweet using Logistic Regression
 * Predict Sentiment of Tweet using Naive Bayes
+* Predict Country by it's Capital using vector also plot pca graph
 * 
